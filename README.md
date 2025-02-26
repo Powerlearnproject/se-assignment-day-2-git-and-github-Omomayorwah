@@ -67,6 +67,8 @@ Branching allows different developers to keep different versions of their code c
 In a typical software development workflow, creating, using, and merging branches usually involves: starting by checking out the main branch, creating a new branch for a specific feature or task, making changes on that branch, and then merging those changes back into the main branch once the feature is complete, often through a pull request process to review the changes before integration.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+In a GitHub workflow, a pull request acts as a mechanism for developers to propose changes to a codebase by submitting a set of changes from their branch for review by other team members before integrating them into the main code, facilitating collaboration and ensuring code quality through peer review before merging the changes. 
+To create and merge a pull request, a developer typically: forks the repository, creates a new branch for their changes, commits their work, pushes the branch to their fork, and then opens a pull request on the main repository specifying the source and target branches, allowing reviewers to assess the code before the project maintainer merges the changes into the target branch; this process often includes providing a clear description of the changes and addressing any feedback from reviewers before merging.
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
