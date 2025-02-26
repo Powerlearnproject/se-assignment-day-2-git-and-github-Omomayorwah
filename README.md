@@ -92,4 +92,11 @@ Best Practices:
 Commit frequently and meaningfully - Make small, incremental changes and commit them with descriptive messages that explain the purpose of the change.
 Use branches - Create separate branches for new features, experiments, or bug fixes. This keeps the main branch stable and clean.
 Write clear commit messages - Follow a consistent format, e.g., "Fix bug in data processing script" or "Add new visualization for sales data."
-Regularly pull changes: Sync your local repository with the remote repository to avoid conflicts.
+Regularly pull changes - Sync your local repository with the remote repository to avoid conflicts.
+Resolve conflicts carefully - When merging branches, conflicts may arise. Review and test the code thoroughly after resolving conflicts.
+Common pitfalls new uses might encounter:
+Merge Conflicts - infamously occur when two or more team members make changes to the same part of a file, resulting in a conflict that the system can’t automatically resolve.
+Inconsistent Workflows - different team members (users) may have varying approaches to how they use version control.
+Lack of Communication - without clear communication, teams can easily find themselves duplicating work or making conflicting changes.
+Security Concerns - version control systems need to protect against unauthorized access and potential data breaches.
+Strategies to overcome pitfalls new uses might encounter:
