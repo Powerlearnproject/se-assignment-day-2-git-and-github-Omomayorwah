@@ -52,6 +52,13 @@ Potential Cost - Depending on the GitHub plan, private repositories may require 
 Internal Collaboration - Ideal for team projects where code needs to be shared within a specific organization.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+First - I create a sample project.
+Next - I clone the repository.
+Next - I create a branch and make your changes.
+Next - I commit and push your changes.
+Next - I merge your changes.
+Finally - I view your changes in GitLab.
+Similar to saving a file that's been edited, a commit records changes to one or more files in your branch. Git assigns each commit a unique ID, called a SHA or hash, that identifies: The specific changes. When the changes were made.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
