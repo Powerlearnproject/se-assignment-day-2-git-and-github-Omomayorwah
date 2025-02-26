@@ -99,4 +99,3 @@ Merge Conflicts - infamously occur when two or more team members make changes to
 Inconsistent Workflows - different team members (users) may have varying approaches to how they use version control.
 Lack of Communication - without clear communication, teams can easily find themselves duplicating work or making conflicting changes.
 Security Concerns - version control systems need to protect against unauthorized access and potential data breaches.
-Strategies to overcome pitfalls new uses might encounter:
